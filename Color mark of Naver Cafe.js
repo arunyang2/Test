@@ -7,6 +7,7 @@
 // @match        https://cafe.naver.com/ArticleRead.nhn*
 // @match        https://cafe.naver.com/MyCafeIntro.nhn*
 // @match        https://cafe.naver.com/ca-fe/cafes*
+// @run-at       document-start
 // @icon         https://i.namu.wiki/i/jTrpSWv0M8WzqIN4yAlmdzJzwGnkOOlppmeBlpvGBTVUgFTFh2jB1cYe3FqqAs5nivbxxsXamrHBystBYJBbMUSexJyL5XEThTBRRH9Ko097HhpIUpFpnHgCOmdK6wm3AhIoJmLHazq0deITqR_ClA.webp
 // @grant        none
 // ==/UserScript==
