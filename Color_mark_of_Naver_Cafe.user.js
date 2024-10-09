@@ -11,4 +11,4 @@
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
-document.head.innerHTML+=`<style>a.article:visited,a.tit:visited{color:#ccc !important;}</style>`;
+document.head.innerHTML+=`<style>a.article:visited,a.tit:visited{color:#d3d3d3 !important;}</style>`;
