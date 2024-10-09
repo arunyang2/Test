@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         네이버카페 방문페이지 읽음 유색표시(회색)
 // @author       알빠냥이
-// @version      2024-10-09.rev1
+// @version      2024-10-09.rev7
 // @description  방문페이지 읽음 유색표시(회색)
 // @match        https://cafe.naver.com/ArticleList.nhn*
 // @match        https://cafe.naver.com/ArticleRead.nhn*
