@@ -13,4 +13,4 @@
 
 document.head.innerHTML+=`<style>a.article:visited,a.tit:visited{color:#d3d3d3 !important;}</style>
 <style>#upperArticleList.article-board.m-tcol-c{a.article:visited{color:#FFD2D2 !important;}}</style>
-<style>#board-notice.type_up{a.article:visited{color:#d3d3d3 !important;}}</style>`;
+<style>tr.board-notice type_up{a.article:visited{color:#d3d3d3 !important;}}</style>`;
