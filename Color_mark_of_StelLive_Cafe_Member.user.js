@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         스텔라이브 네이버카페 멤버이름 유색표시(말머리 부분)
-// @author       알빠냥이
+// @author       루냥이
 // @version      2024-10-13.rev1
 // @description  스텔라이브 네이버카페 멤버이름 유색표시(말머리 부분)
 // @match        https://*cafe.naver.com/ArticleList.nhn?search.clubid=29424353*
