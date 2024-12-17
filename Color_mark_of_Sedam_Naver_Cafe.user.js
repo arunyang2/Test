@@ -6,7 +6,7 @@
 // @match        https://*cafe.naver.com/ArticleList.nhn?search.clubid=30614646*
 // @match        https://*cafe.naver.com/ArticleRead.nhn*&clubid=30614646*
 // @match        https://cafe.naver.com/ca-fe/cafes/30614646*
-// @icon         https://i.namu.wiki/i/jTrpSWv0M8WzqIN4yAlmdzJzwGnkOOlppmeBlpvGBTVUgFTFh2jB1cYe3FqqAs5nivbxxsXamrHBystBYJBbMUSexJyL5XEThTBRRH9Ko097HhpIUpFpnHgCOmdK6wm3AhIoJmLHazq0deITqR_ClA.webp
+// @icon         https://i.namu.wiki/i/Q_FCFrVYsgDw7uvNUxfq9sknhP_OVYHS228Cwbbjpj1POyNXo4J43yzeEnwoaD0ubmztVraNQonL0shv2rJLeAb4TCBIBr3xuiKkRiKchWd5R_wywdzNBKKgQzk80unFGMuhNz2gpzlMyM12komdQQ.webp
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
