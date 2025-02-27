@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         스텔라이브 네이버카페 방문페이지 읽음 유색표시(회색/연분홍)
 // @author       루냥이
-// @version      2025-02-27.rev8
+// @version      2025-02-27.rev7
 // @description  스텔라이브 네이버카페전용 방문페이지 및 공지사항 읽은 글 유색표시(회색/연분홍)
 // @match        https://*cafe.naver.com/ArticleList.nhn?search.clubid=29424353*
 // @match        https://*cafe.naver.com/ArticleRead.nhn*&clubid=29424353*
